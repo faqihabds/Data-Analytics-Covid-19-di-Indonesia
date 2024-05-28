@@ -35,7 +35,32 @@ Hasil dari proses data cleaning dapat diakses di file Excel yang disimpan dalam 
 File Excel ini berisi dataset COVID-19 Indonesia yang telah dibersihkan dan siap untuk digunakan dalam analisis lebih lanjut.
 
 # Visualisasi Data
-Visualisasi data dilakukan menggunakan Tableau Public. Visualisasi lebih lengkap dapat dilihat di [Tableau Public - COVID-19 di Indonesia Dashboard](https://public.tableau.com/app/profile/muhammad.faqih.abdussalam/viz/Covid-19diIndonesia_17168070835390/Dashboard1).
+Visualisasi data dilakukan menggunakan Tableau Public. 
 
-# Analisis Data
-analisis adalah ini analisis
+Dashboard
+![Dashboard](dashboard_data_analyst_covid.png)
+
+Total case terbanyak terjadi di DKI Jakarta dengan jumlah lebih dari 500 juta.
+![Dashboard](Total_case_terbanyak.png)
+
+Total Death terbanyak terjadi di Jawa Timur dengan jumlah lebih dari 15 juta.
+![Dashboard](Total_Death_terbanyak.png)
+
+Dashboard visualisasi lengkap dapat dilihat di [Tableau Public - COVID-19 di Indonesia Dashboard](https://public.tableau.com/app/profile/muhammad.faqih.abdussalam/viz/Covid-19diIndonesia_17168070835390/Dashboard1).
+
+## Analisis Data
+Dari data yang telah dianalisis, beberapa temuan menarik dapat diidentifikasi:
+
+- **Total Kasus Terbanyak**: DKI Jakarta menjadi provinsi dengan total kasus COVID-19 terbanyak, mencapai lebih dari 500 juta kasus.
+- **Total Kematian Terbanyak**: Jawa Timur memiliki jumlah kematian terbanyak akibat COVID-19, dengan lebih dari 15 juta kematian.
+- **Puncak Kasus Terkena dan Meninggal**: Puncak kasus terkena dan meninggal terbanyak terjadi pada tahun 2022.
+- Dari data yang telah dianalisis, terjadi penurunan kasus COVID-19 baik di DKI Jakarta maupun Jawa Timur pada tahun 2024. Meskipun demikian, perhatian terhadap pencegahan dan penanganan tetap diperlukan untuk mencegah lonjakan kasus di masa mendatang.
+
+## Keputusan yang Disarankan
+Berdasarkan penurunan kasus COVID-19, beberapa keputusan yang dapat disarankan adalah:
+
+1. **Pemeliharaan Protokol Kesehatan**: Meskipun kasus menurun, tetap diperlukan pemeliharaan protokol kesehatan untuk mencegah penyebaran virus.
+2. **Penguatan Sistem Kesehatan**: Pemerintah perlu memperkuat sistem kesehatan, terutama di DKI Jakarta dan Jawa Timur, untuk menghadapi potensi lonjakan kasus di masa mendatang.
+3. **Edukasi Masyarakat**: Edukasi dan sosialisasi mengenai pentingnya protokol kesehatan masih perlu ditingkatkan untuk memastikan kesadaran masyarakat tetap tinggi.
+
+Keputusan yang diambil harus tetap berdasarkan pada data aktual dan kajian yang mendalam, serta melibatkan partisipasi aktif dari berbagai pihak terkait.
