@@ -35,5 +35,7 @@ Hasil dari proses data cleaning dapat diakses di file Excel yang disimpan dalam 
 File Excel ini berisi dataset COVID-19 Indonesia yang telah dibersihkan dan siap untuk digunakan dalam analisis lebih lanjut.
 
 # Visualisasi Data
+Visualisasi data dilakukan menggunakan Tableau Public. Visualisasi lebih lengkap dapat dilihat di [Tableau Public - COVID-19 di Indonesia Dashboard](https://public.tableau.com/app/profile/muhammad.faqih.abdussalam/viz/Covid-19diIndonesia_17168070835390/Dashboard1).
 
 # Analisis Data
+analisis adalah ini analisis
