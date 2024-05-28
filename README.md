@@ -31,6 +31,8 @@ Kolom yang dipertahankan dan dibersihkan termasuk `Date`, `Month`, `Year`, `DMY`
 
 Langkah-langkah ini memastikan dataset yang lebih bersih dan terstruktur untuk analisis selanjutnya.
 
+Hasil dari proses data cleaning dapat diakses di file Excel yang disimpan dalam repository dengan nama file [covid dataset.xlsx](Data-Analytics-covid-19-di-Indonesia/covid%20dataset.xlsx). File Excel ini berisi dataset COVID-19 Indonesia yang telah dibersihkan dan siap untuk digunakan dalam analisis lebih lanjut.
+
 # Visualisasi Data
 
 # Analisis Data
