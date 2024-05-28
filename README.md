@@ -20,4 +20,15 @@ Data demografis juga tersedia, serta perhitungan antara data demografis dan data
 ### Pengakuan
 Terima kasih kepada mereka yang telah menyediakan data secara terbuka sehingga kami dapat mengompilasinya menjadi dataset di sini, yaitu: covid19.go.id, kemendagri.go.id, bps.go.id, dan bnpb-inacovid19.hub.arcgis.com
 
-# Cleaning data
+# Data Cleaning
+Langkah pertama dalam proses data cleaning adalah menghapus kolom yang tidak relevan untuk analisis lebih lanjut. Kolom-kolom yang dihapus termasuk `Location Level`, `City or Regency`, `Continent`, `Time Zone`, `Special Status`, `Total Regencies`, `Total Cities`, `Total Districts`, `Total Urban Villages`, `Total Rural Villages`, `Area (km2)`, `Population Density`, `Longitude`, `Latitude`, `New Cases per Million`, `Total Cases per Million`, `Growth Factor of New Cases`, dan `Growth Factor of New Deaths`. 
+
+Setelah itu, kolom `Date` dipisahkan menjadi tiga kolom terpisah yaitu `Date`, `Month`, dan `Year` untuk memudahkan analisis berdasarkan waktu. Kolom `DMY` ditambahkan untuk menyimpan kombinasi hari dan bulan dalam format `dd-mmm`. 
+
+Kolom yang dipertahankan dan dibersihkan termasuk `Date`, `Month`, `Year`, `DMY`, `Location ISO Code`, `Location`, `New Cases`, `New Deaths`, `New Recovered`, `New Active Cases`, `Total Cases`, `Total Deaths`, `Total Recovered`, `Total Active Cases`, `Province`, `Country`, `Island`, `Population`, `New Deaths per Million`, `Total Deaths per Million`, `Total Deaths per 100rb`, `Case Fatality Rate`, dan `Case Recovered Rate`. 
+
+Langkah-langkah ini memastikan dataset yang lebih bersih dan terstruktur untuk analisis selanjutnya.
+
+# Visualisasi Data
+
+# Analisis Data
