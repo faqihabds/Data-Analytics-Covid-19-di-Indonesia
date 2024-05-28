@@ -29,9 +29,10 @@ Setelah itu, kolom `Date` dipisahkan menjadi tiga kolom terpisah yaitu `Date`, `
 
 Kolom yang dipertahankan dan dibersihkan termasuk `Date`, `Month`, `Year`, `DMY`, `Location ISO Code`, `Location`, `New Cases`, `New Deaths`, `New Recovered`, `New Active Cases`, `Total Cases`, `Total Deaths`, `Total Recovered`, `Total Active Cases`, `Province`, `Country`, `Island`, `Population`, `New Deaths per Million`, `Total Deaths per Million`, `Total Deaths per 100rb`, `Case Fatality Rate`, dan `Case Recovered Rate`. 
 
-Langkah-langkah ini memastikan dataset yang lebih bersih dan terstruktur untuk analisis selanjutnya.
 
-Hasil dari proses data cleaning dapat diakses di file Excel yang disimpan dalam repository dengan nama file [covid dataset.xlsx](covid%20dataset.xlsx). File Excel ini berisi dataset COVID-19 Indonesia yang telah dibersihkan dan siap untuk digunakan dalam analisis lebih lanjut.
+Hasil dari proses data cleaning dapat diakses di file Excel yang disimpan dalam repository dengan nama file [covid dataset.xlsx](covid%20dataset.xlsx). 
+
+File Excel ini berisi dataset COVID-19 Indonesia yang telah dibersihkan dan siap untuk digunakan dalam analisis lebih lanjut.
 
 # Visualisasi Data
 
