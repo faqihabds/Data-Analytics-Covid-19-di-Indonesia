@@ -21,7 +21,9 @@ Data demografis juga tersedia, serta perhitungan antara data demografis dan data
 Terima kasih kepada mereka yang telah menyediakan data secara terbuka sehingga kami dapat mengompilasinya menjadi dataset di sini, yaitu: covid19.go.id, kemendagri.go.id, bps.go.id, dan bnpb-inacovid19.hub.arcgis.com
 
 # Data Cleaning
-Langkah pertama dalam proses data cleaning adalah menghapus kolom yang tidak relevan untuk analisis lebih lanjut. Kolom-kolom yang dihapus termasuk `Location Level`, `City or Regency`, `Continent`, `Time Zone`, `Special Status`, `Total Regencies`, `Total Cities`, `Total Districts`, `Total Urban Villages`, `Total Rural Villages`, `Area (km2)`, `Population Density`, `Longitude`, `Latitude`, `New Cases per Million`, `Total Cases per Million`, `Growth Factor of New Cases`, dan `Growth Factor of New Deaths`. 
+Setelah mengimpor file CSV yang telah diunduh ke dalam Excel, langkah pertama dalam proses data cleaning adalah dalam proses data cleaning adalah menghapus kolom yang tidak relevan untuk analisis lebih lanjut. 
+
+Kolom-kolom yang dihapus termasuk `Location Level`, `City or Regency`, `Continent`, `Time Zone`, `Special Status`, `Total Regencies`, `Total Cities`, `Total Districts`, `Total Urban Villages`, `Total Rural Villages`, `Area (km2)`, `Population Density`, `Longitude`, `Latitude`, `New Cases per Million`, `Total Cases per Million`, `Growth Factor of New Cases`, dan `Growth Factor of New Deaths`. 
 
 Setelah itu, kolom `Date` dipisahkan menjadi tiga kolom terpisah yaitu `Date`, `Month`, dan `Year` untuk memudahkan analisis berdasarkan waktu. Kolom `DMY` ditambahkan untuk menyimpan kombinasi hari dan bulan dalam format `dd-mmm`. 
 
