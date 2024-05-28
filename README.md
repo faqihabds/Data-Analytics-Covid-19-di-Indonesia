@@ -19,3 +19,5 @@ Data demografis juga tersedia, serta perhitungan antara data demografis dan data
 
 ### Pengakuan
 Terima kasih kepada mereka yang telah menyediakan data secara terbuka sehingga kami dapat mengompilasinya menjadi dataset di sini, yaitu: covid19.go.id, kemendagri.go.id, bps.go.id, dan bnpb-inacovid19.hub.arcgis.com
+
+# Cleaning data
